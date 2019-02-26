@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a  CMakeFiles/common.dir/base64.c.o CMakeFiles/common.dir/make_log.c.o CMakeFiles/common.dir/redis_op.c.o CMakeFiles/common.dir/cfg.c.o CMakeFiles/common.dir/util_cgi.c.o CMakeFiles/common.dir/des.c.o CMakeFiles/common.dir/deal_mysql.c.o CMakeFiles/common.dir/md5.c.o CMakeFiles/common.dir/cJSON.c.o
+/usr/bin/ranlib libcommon.a

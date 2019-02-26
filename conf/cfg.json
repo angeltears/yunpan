@@ -1,0 +1,35 @@
+{
+	"redis":
+	{
+		"ip": "",
+		"port": "",
+		"password": ""
+	},
+	
+	"mysql":
+	{
+		"ip": "",
+		"port": "",
+		"database": "",
+		"user": "",
+		"password": ""
+	},
+	
+	"dfs_path":
+	{
+		"client": "/etc/fdfs/client.conf"
+	},
+	
+	"web_server":
+	{
+		"ip": "",
+		"port": ""
+	},
+	
+	"storage_web_server":
+	{
+		"ip": "",
+		"port": ""
+	}
+	
+}
